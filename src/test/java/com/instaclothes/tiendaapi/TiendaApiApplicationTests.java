@@ -1,4 +1,4 @@
-package com.instaclothes.tienda_api;
+package com.instaclothes.tiendaapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
